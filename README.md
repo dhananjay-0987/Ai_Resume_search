@@ -112,6 +112,3 @@ The frontend will be running at http://localhost:3000/
 - `src/pages/` - Page components for different routes
 - `src/services/` - API services for backend communication
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. "# Ai_Resume_search" 
